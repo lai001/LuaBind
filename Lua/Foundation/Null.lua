@@ -1,0 +1,2 @@
+local null = {}
+return null

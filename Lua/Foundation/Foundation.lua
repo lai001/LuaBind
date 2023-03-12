@@ -1,0 +1,6 @@
+null = require("Foundation.Null")
+defer = require("Foundation.Defer")
+Class = require("Foundation.Class")
+Benchmark = require("Foundation.Benchmark")
+TypeCheck = require("Foundation.TypeCheck")
+TClass = require("Foundation.TClass")
